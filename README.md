@@ -1,6 +1,6 @@
-This package provides the [Programmer Dvorak Keyboard Layout](http://www.kaufmann.no/roland/dvorak/) through the standard Emacs `quail` [input method](http://www.gnu.org/software/emacs/manual/html_node/emacs/Input-Methods.html) interfaces.
+This package provides the [Programmer Dvorak Keyboard Layout](http://www.kaufmann.no/roland/dvorak/) through the standard Emacs `quail` [input method](http://www.gnu.org/software/emacs/manual/html_node/emacs/Input-Methods.html) interface.
 
-Using input method as a keyboard layout implementation, enables the user to keep regular QWERTY keymaps for commands while using specific layout to insert text.
+Using input method as a keyboard layout implementation enables the user to keep regular QWERTY keymaps for commands while using the specific layout to insert text.
 
 # Installation
 Install programmer-dvorak from melpa.
